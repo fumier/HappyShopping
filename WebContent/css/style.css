@@ -1,0 +1,241 @@
+@CHARSET "UTF-8";
+body
+{
+	font-size:12px;	
+	
+}
+table#top
+{
+	width:1000px;
+	align:center;
+	table-layout: fixed;
+}
+table#left
+{
+	border:1px solid grey;
+	width:120px;
+	height:600px;
+	border-collapse: collapse;
+	table-layout: fixed;
+	padding-left: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	
+}
+table#center
+{
+	width:1000px;
+	height:600px;
+	table-layout:fixed;
+	border:1px solid grey;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+table#bottom
+{
+	width:1000px;
+	table-layout:fixed;
+	border-collapse: collapse;
+	background-color: #99CCFF;
+}
+ul
+{
+	text-align: left;
+}
+
+.leftth
+{
+	hegiht:30px;
+	font-size:14px;
+	border:1px solid grey;
+	text-align: center;
+	background-color: #99CCFF;
+}
+.lefttd
+{
+	height:80px;
+	text-align: center;
+	table-layout:fixed;
+	
+}
+.bottomtd
+{
+	width:250px;
+	text-align: center;
+	border-right: 1px solid grey;
+	
+}
+
+.bottomtd1
+{
+	width:250px;
+	text-align: center;
+}
+.bottomth
+{
+	border-top: 1px solid grey;
+	padding-top: 1px;
+	height:50px;
+}
+.bottomtd2
+{
+	width:1000px;
+	height:50px;
+	text-align: center;
+}
+#showtable
+{
+	width:880px;
+	border:1px solid grey;
+	margin:0px 0px 0px 0px;
+	padding:0px;
+	border-collapse: collapse;
+	
+}
+#showth
+{
+	height:30px;
+	padding-left: 0px;
+	text-align: left;
+	font-size: 14px;
+	
+}
+#showtd
+{
+	width:880px;
+	height:540px;
+	border:1px solid grey;
+	border-collapse: collapse;
+	padding:2px,4px,2px,4px;/*内边距上右下左*/
+}
+
+.booktable
+{
+	width:870px;
+	height:180px;
+	border:0px;
+	table-layout:fixed;
+	vertical-align: top;
+	margin: 0px 2px 0px 2px; /*外边距上右下左*/
+}
+
+.booktabletd
+{
+	width:150px;
+	height:150px;
+	table-layout:fixed;
+	border:0px;
+	vertical-align: top;
+	margin:0 auto;
+}
+
+.booktd
+{
+	height:15px;
+	width:150px;
+	text-align: left;
+	border:0px;
+	border-collapse: collapse;
+	
+}
+.showbook
+{
+	width:150px;
+	height:180px;
+	table-layout:fixed;
+	border:1px solid grey;
+	border-collapse: collapse;
+	margin:0 auto;
+}
+.bookimage
+{
+	width:140px;
+	height:150px;
+	
+}
+
+.pagetd
+{
+	height:30px;
+}
+.navdiv
+{
+	width:1000px;
+	background:#CCCCCC;
+	margin:0 auto;
+}
+.topli
+{ 
+	padding-left:10px;
+	padding-right:20px;
+	display: inline;
+}
+.searchdiv,.bottomdiv
+{
+	width:1000px;
+	margin:0 auto;
+}
+.topdiv
+{
+	height:120px;
+	width:1000px;
+	margin:0 auto;
+	background-image: url(../images/top1.jpg);
+	background-repeat: no-repeat;
+	
+}
+.centerdiv
+{
+	width:1000px;
+	margin:0 auto;
+}
+
+
+/*类选择器，设置链接没有下划线*/
+
+.link
+{
+	text-decoration: none;
+	color:black;
+}
+.ali
+{
+	text-decoration: none;
+}
+
+#id1
+{
+	text-align:center;
+}
+#tablediv
+{
+	width:1000px;
+	height:25px;
+	margin:0 auto;
+	background:#CCCCCC;
+	
+}
+#topul
+{
+	width:1000px;
+	list-style-type: none;
+	margin:0 auto;
+	padding-top: 5px;
+    padding-bottom: 5px;
+}
+#searchtd
+{
+	height:30px;
+	width:1002px;
+	text-align:center;
+	border-bottom:1px solid grey;
+    background-color: #FFFAFA;
+    
+}
+
+
+
+
+
+

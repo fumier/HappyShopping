@@ -1,0 +1,42 @@
+@CHARSET "UTF-8";
+body
+{
+	font-size:12px;	
+	
+}
+table#left
+{
+	border:1px solid grey;
+	width:120px;
+	height:600px;
+	border-collapse: collapse;
+	table-layout: fixed;
+	padding-left: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	
+}
+.leftth
+{
+	height:30px;
+	font-size:14px;
+	border:1px solid grey;
+	text-align: center;
+	background-color: #99CCFF;
+}
+.lefttd
+{
+	height:80px;
+	text-align: center;
+	table-layout:fixed;
+	
+}
+.ali
+{
+	text-decoration: none;
+}
+ul
+{
+	text-align: left;
+}

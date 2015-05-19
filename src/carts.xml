@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<carts> 
+  <cart userid="3143254235"> 
+    <cartitem bookid="2" name="java程序设计" author="李四" price="20.0" quantity="10" buynum="4" imagepath="/bookpic/cxsj.jpg"/>  
+    <cartitem bookid="3" name="设计模式" author="王五" price="20.0" quantity="10" buynum="1" imagepath="/bookpic/sjms.jpg"/>  
+    <cartitem bookid="1" name="数据结构" author="张三" price="20.0" quantity="10" buynum="3" imagepath="/bookpic/sjjg.jpg"/> 
+  </cart>  
+  <cart userid="46527834-22a3-4214-851a-cc71b6742624"/> 
+</carts>

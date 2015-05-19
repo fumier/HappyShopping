@@ -1,0 +1,71 @@
+@CHARSET "UTF-8";
+#booktable
+{
+	height:727px;
+	width:875px;
+	border:1px solid grey;
+	margin:0px 0px 0px 0px;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+#showth
+{
+	height:30px;
+	padding-left: 0px;
+	text-align: left;
+	font-size: 14px;
+
+}
+#showtd
+{
+	height:667px;
+	border:1px solid grey;
+	border-collapse: collapse;
+}
+.tablebook
+{
+	height:666px;
+	border:0px;
+	border-collapse: collapse;
+}
+.showbook
+{
+	width:160px;
+	height:220px;
+	table-layout:fixed;
+	border:0px;
+/* 	border:1px solid grey; */
+	border-collapse: collapse;
+	margin-left: 2px;
+	margin-right:2px;
+}
+.booktd1
+{
+    width:160px;
+	height:180px;	
+	padding: 1px 2px 1px 2px;
+}
+.bookimage
+{
+	width:120px;
+	height:170px;
+	vertical-align: middle;
+	margin:0 auto;
+}
+.booktd
+{
+	height:15px;
+	width:150px;
+	text-align: center;
+	border:0px;
+	border-collapse: collapse;
+	
+}
+.pagetd
+{
+	height:27px;
+}
+.pagelink
+{
+	text-decoration: none;
+}

@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+body {
+    font-size: 14px;
+}
+/*
+*使用id选择器你可以为不同的HTML元素定义相同的样式
+*/
+#main {
+	width: 500px;
+/* 	height:600px; */
+    margin: 0 auto;
+	margin-top: 100px;
+}
+
+#formtable {
+	font-size: 15px;
+	border:1px solid grey;
+}
+/*
+*类选择器
+*/
+th
+{
+	height:40px;
+	background-color: #99CCFF;
+}
+.td1 {
+	width: 100px;
+}
+.userinput {
+	width: 210px;
+	height: 25px;
+	background-color: #FFFFFF;
+	border: solid 1px #7dbad7;
+	font-size: 16px;
+}
+
+.btn {
+	font: bold 12px;
+	width: 80px;
+	cursor: hand;
+	height: 25px;
+}

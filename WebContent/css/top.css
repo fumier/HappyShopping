@@ -1,0 +1,74 @@
+@CHARSET "UTF-8";
+#tablediv
+{
+	width:1000px;
+	height:25px;
+	margin:0 auto;
+	background:#CCCCCC;
+	
+}
+table#top
+{
+	width:1000px;
+	table-layout: fixed;
+}
+#id1
+{
+	text-align:center;
+}
+
+.topdiv
+{
+	height:120px;
+	width:1000px;
+	margin:0 auto;
+	background-image: url(../images/top1.jpg);
+	background-repeat: no-repeat;
+	
+}
+.shopping-cart
+{
+	width:18px;
+	height:18px;
+}
+.navdiv
+{
+	width:1000px;
+	background:#CCCCCC;
+	margin:0 auto;
+}
+
+#topul
+{
+	width:1000px;
+	list-style-type: none;
+	margin:0 auto;
+	padding-top: 5px;
+    padding-bottom: 5px;
+}
+.topli
+{ 
+	padding-left:10px;
+	padding-right:20px;
+	display: inline;
+}
+.searchdiv
+{
+	width:1000px;
+	margin:0 auto;
+}
+#searchtd
+{
+	height:30px;
+	width:1002px;
+	text-align:center;
+	border-bottom:1px solid grey;
+    background-color: #FFFAFA;
+    
+}
+a.link
+{
+	text-decoration: none;
+	color:black;
+}
+

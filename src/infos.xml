@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<infos> 
+  <info userid="3143254235" itemNum="11"> 
+    <infoitem infoid="1" personname="cc" country="中国" province="浙江省" city="杭州市" area="上城区" details="aa镇88号" zipcode="231470" telephone="13664189999" default="1"/>  
+    <infoitem infoid="8" personname="程程" country="中国" province="北京市" city="北京市" area="石景山区" details="aaaaaaaaaaaa" zipcode="111111" telephone="145654765764" default="0"/>  
+    <infoitem infoid="f741b028-4e58-479b-ad49-b80b2e46e226" personname="程阳" country="中国" province="安徽省" city="安庆市" area="桐城市" details="xxxxxx" zipcode="xxxxxx" telephone="136664211111" default="0"/>  
+    <infoitem infoid="0f03f9c2-246e-43c5-af83-12135d415f96" personname="ccc" country="中国" province="辽宁省" city="沈阳市" area="东陵区" details="cccc" zipcode="ccc" telephone="132432434545" default="0"/>  
+    <infoitem infoid="b867a44a-93b0-4aa7-ae3f-31c8a590dbf2" personname="aaaaaaa" country="中国" province="辽宁省" city="沈阳市" area="东陵区" details="aaaaa" zipcode="545646" telephone="135687970978" default="0"/>  
+    <infoitem infoid="6e1c8d8f-1ce2-4e2d-b220-57c6203596b9" personname="chengcheng" country="中国" province="辽宁省" city="沈阳市" area="东陵区" details="ccccccc" zipcode="112343" telephone="132424354563" default="0"/>  
+    <infoitem infoid="955d5d76-8f7a-4e31-8913-9e817ba503b1" personname="yyyyy" country="中国" province="辽宁省" city="沈阳市" area="和平区" details="xxxxxx" zipcode="xxxxxx" telephone="135654423425" default="0"/>  
+    <infoitem infoid="6033ed34-35d8-4e4a-82be-e1d7bfa43d04" personname="ccccc" country="中国" province="辽宁省" city="西城区" area="长海县" details="xxxxxxx" zipcode="xxxxxx" telephone="134441234343" default="0"/>  
+    <infoitem infoid="d16714c4-410f-42db-8c97-8ad12e701d65" personname="zzzzz" country="中国" province="辽宁省" city="沈阳市" area="东陵区" details="zzzzzzzzzzz" zipcode="zzzzzz" telephone="111111111111" default="0"/>  
+    <infoitem infoid="653eb6fd-cd2f-4913-9dd0-c6b3404d8f68" personname="gggg" country="中国" province="辽宁省" city="沈阳市" area="东陵区" details="gggg" zipcode="ggggg" telephone="123142143452" default="0"/>  
+    <infoitem infoid="7a3ec624-d931-41f9-925b-d7ef0b98c795" personname="cheng111" country="中国" province="辽宁省" city="沈阳市" area="东陵区" details="sdadadsa" zipcode="214321" telephone="231314242425" default="0"/>
+  </info>  
+  <info userid="314325423" itemNum="0"/> 
+</infos>

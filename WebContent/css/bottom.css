@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+table#bottom
+{
+	width:1000px;
+	table-layout:fixed;
+	border-collapse: collapse;
+	background-color: #99CCFF;
+}
+#bottomdiv
+{
+	width:1000px;
+	margin:0 auto;
+}
+.bottomth
+{
+	border-top: 1px solid grey;
+	padding-top: 1px;
+	height:50px;
+}
+.bottomtd
+{
+	width:250px;
+	text-align: center;
+	border-right: 1px solid grey;
+	
+}
+
+.bottomtd1
+{
+	width:250px;
+	text-align: center;
+}
+
+.bottomtd2
+{
+	width:1000px;
+	height:50px;
+	text-align: center;
+}

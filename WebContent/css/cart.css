@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+body
+{
+	font-size:12px;
+}
+#cartdiv
+{
+	width:1000px;
+	height:800px;
+	margin:0 auto;
+}
+h1
+{
+	font-size: 14px;
+}
+a
+{
+	text-decoration: none;
+}
+#carttable
+{
+	width:1000px;
+	border-collapse:collapse;
+	border-bottom: 1px solid grey;
+}
+#carttable th
+{
+	font-size: 14px;
+	text-align: center;
+	padding-top:4px;
+	padding-bottom:3px;
+	background-color:  #99CCFF;
+	border-bottom: 1px solid grey;
+	border-top: 1px solid grey;
+}
+.image
+{
+	width:60px;
+	height:80px;
+	vertical-align: middle;
+}
+#carttable td
+{
+	font-size: 12px;
+	text-align: center;
+	border-bottom: 1px solid grey;
+}
+.buyQuantityInput
+{
+	text-align: center;
+}
+#paytable
+{
+	background:#CCCCCC;
+	width:1000px;
+	height:80px;
+	margin-top: 10px;
+}
+
+

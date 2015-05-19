@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+<book id="1" name="数据结构" author="张三" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjjg.jpg"/>
+<book id="2" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="3" name="设计模式" author="王五" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjms.jpg"/>
+<book id="4" name="数据结构" author="张三" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjjg.jpg"/>
+<book id="5" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="6" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="7" name="数据结构" author="张三" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjjg.jpg"/>
+<book id="8" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="9" name="设计模式" author="王五" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjms.jpg"/>
+<book id="10" name="数据结构" author="张三" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjjg.jpg"/>
+<book id="11" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="12" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="13" name="数据结构" author="张三" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjjg.jpg"/>
+<book id="14" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="15" name="设计模式" author="王五" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjms.jpg"/>
+<book id="16" name="数据结构" author="张三" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjjg.jpg"/>
+<book id="17" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="18" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="19" name="数据结构" author="张三" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjjg.jpg"/>
+<book id="20" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="21" name="设计模式" author="王五" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjms.jpg"/>
+<book id="22" name="数据结构" author="张三" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/sjjg.jpg"/>
+<book id="23" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+<book id="24" name="java程序设计" author="李四" price="20" quantity="10" describe="很不错的书" imagepath="/bookpic/cxsj.jpg"/>
+
+
+</books>

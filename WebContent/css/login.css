@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+body
+{
+	font-size: 12px;
+}
+div
+{
+	width: 300px;
+	height:300px;
+	margin: 0 auto;
+	margin-top: 100px;
+	border: 2px solid #999;
+	border-radius: 8px;
+	background: #FFF;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+table
+{
+	width:300px;
+	height:300px;
+/* 	border: 1px solid grey; */
+}
+th
+{
+	height:40px;
+	background-color: #99CCFF;
+}
+td
+{
+	height:40px;
+	padding: 5px 0px 5px 0px;
+}

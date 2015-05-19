@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<trades> 
+  <trade userid="3143254235"> 
+    <tradeitems tradeid="1111111" finished="false" personalinfo="aaaa"> 
+      <item bookid="2" name="java程序设计" author="李四" price="20.0" buynum="4" imagepath="/bookpic/cxsj.jpg"/> 
+    </tradeitems>  
+    <tradeitems tradeid="12345" finished="false" personalinfo="bbbbb">
+      <item bookid="1" name="张三" author="张三" price="40.0" buynum="2" imagepath="/bookpic/sjjg.jpg"/>
+      <item bookid="2" name="李四" author="李四" price="80.0" buynum="4" imagepath="/bookpic/cxsj.jpg"/>
+    </tradeitems>
+  </trade> 
+</trades>
